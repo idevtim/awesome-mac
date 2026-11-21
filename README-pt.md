@@ -654,6 +654,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [FastoNoSQL](https://fastonosql.com/) - Cliente GUI multiplataforma para diversos bancos de dados chave-valor. [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://github.com/fastogt/fastoredis) - Ferramenta gráfica profissional e multiplataforma para gerenciar Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - Ambiente seguro e colaborativo para suas consultas e insights baseados em dados. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
+* [LunoDB](https://lunodb.app) - Cliente de banco de dados moderno com IA e assistente de IA integrado, com suporte a MySQL, PostgreSQL, SQLite, MariaDB, MongoDB, SQL Server, Redis e Turso.
 * [MDB Explorer](https://www.macexplorer.co/en/mdb-explorer.php) - Ferramenta MDB para abrir, ler e exportar seus arquivos MDB para outros formatos e bancos de dados.
 * [Medis](https://getmedis.com) - Gerenciador GUI para Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [Mingo](https://mingo.io/) - GUI fácil de usar para MongoDB, com recursos incríveis.
